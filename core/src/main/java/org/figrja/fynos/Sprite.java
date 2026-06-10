@@ -1,4 +1,4 @@
-package org.figrja.funos;
+package org.figrja.fynos;
 
 import com.badlogic.gdx.graphics.Texture;
 
