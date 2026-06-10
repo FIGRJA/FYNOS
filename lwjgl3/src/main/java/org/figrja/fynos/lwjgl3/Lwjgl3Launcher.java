@@ -1,10 +1,10 @@
-package org.figrja.funos.lwjgl3;
+package org.figrja.fynos.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
 import com.badlogic.gdx.graphics.Color;
 
-import org.figrja.funos.Main;
+import org.figrja.fynos.Main;
 
 /** Launches the desktop (LWJGL3) application. */
 public class Lwjgl3Launcher {
